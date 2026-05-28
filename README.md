@@ -1,4 +1,4 @@
-# Zara-Dashboard
+# Zara Revenue and Product Performance Analysis
 I created this dataset to showcase a Power BI visualization project based on the publicly available Zara dataset from Kaggle. The dashboards provide insights into:
 
 Top-performing products via Sale volume and Revenue
